@@ -3,7 +3,7 @@
 [![Installations via composer total](http://img.shields.io/packagist/dt/cliffparnitzky/tiny-mce-horizontal-ruler.svg?style=flat)](https://packagist.org/packages/cliffparnitzky/tiny-mce-horizontal-ruler)
 
 Contao Extension: TinyMceHorizontalRuler
-====================================
+========================================
 
 Special TinyMCE plugin that adds a menu item and button which allows to insert a horizontal ruler.
 
@@ -27,8 +27,7 @@ https://github.com/cliffparnitzky/TinyMceHorizontalRuler/issues
 Compatibility
 -------------
 
-- min. Contao version: >= 3.3.0
-- max. Contao version: <  3.6.0
+- Contao version >= 4.4.0
 
 
 Dependency
